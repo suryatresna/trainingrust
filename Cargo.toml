@@ -1,0 +1,23 @@
+[package]
+name = "tutor1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "tutor1"
+path = "src/tutor1/main.rs"
+
+[[bin]]
+name = "tutor2"
+path = "src/tutor2/main.rs"
+
+[[bin]]
+name = "tutor3"
+path = "src/tutor3/main.rs"
+
+[[bin]]
+name = "tutor4"
+path = "src/tutor4/main.rs"
